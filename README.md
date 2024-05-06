@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+### I HATE CODING AND I AM NOT LOOKING FOR ANY INTERNSHIP
+
 <!--
 **reebxu459/reebxu459** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
