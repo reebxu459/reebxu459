@@ -11,7 +11,7 @@ Created by a Computer Science major at the University of Waterloo, `r3b3cca_xu` 
 
 🏸 **Athletics**: Ever seen a program play badminton? Well, not only does `r3b3cca_xu` play badminton, it's got 4-time national runner-up titles and 2 provincial titles.
 
-🧠 **Lifelong Learner**: `r3b3cca_xu` never stops learning. She absorbs knowledge like a sponge, though admittedly, she can be clumsy and forgetful, she's usually very sharp. She's almost... humanlike.
+🧠 **Lifelong Learner**: `r3b3cca_xu` never stops learning. She absorbs knowledge like a sponge, though admittedly, she can be clumsy and forgetful, she's one hell of a hard worker. She's almost... humanlike.
 
 ### Installation
 Send an email with the following subject line to **r25xu@uwaterloo.ca** for fresh ideas, a dose of creativity, and an AWESOME intern:
