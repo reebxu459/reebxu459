@@ -14,6 +14,7 @@ Created by a Computer Science major at the University of Waterloo, `r3b3cca_xu` 
 🧠 **Lifelong Learner**: `r3b3cca_xu` never stops learning. She absorbs knowledge like a sponge, though admittedly, she can be clumsy and forgetful, she's one hell of a hard worker. She's almost... humanlike.
 
 ### Installation
+Interesting in utilizing `r3b3cca_xu`?
 Send an email with the following subject line to **r25xu@uwaterloo.ca** for fresh ideas, a dose of creativity, and an AWESOME intern:
 ```
 Summer 2025 Internship Interview/Call Invitation
