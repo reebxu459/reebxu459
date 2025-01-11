@@ -18,7 +18,6 @@ Send an email with the following subject line to **r25xu@uwaterloo.ca** for fres
 ```
 Summer 2025 Internship Interview/Call Invitation
 ```
-
 ### Want to interact with the ✨ `r3b3cca_xu` ✨ project?
 Email: r25xu@uwaterloo.ca
 LinkedIn: https://www.linkedin.com/in/r25xu/
