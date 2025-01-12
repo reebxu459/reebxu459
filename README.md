@@ -1,5 +1,5 @@
 ## Welcome to the ✨ `r3b3cca_xu` ✨ project!
-*version 3.0.0 - 3rd-Year Computer Science Major at the University of Waterloo*
+*version 3.0.0 - 3rd-Year `Computer Science Major` at the University of Waterloo*
 
 *version 3.1.0 - Currently Seeking Summer 2025 Internships!*
 
