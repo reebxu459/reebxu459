@@ -4,7 +4,7 @@
 *version 3.1.0 - Currently Seeking Summer 2026 Internships!*
 
 ### Overview
-Created by a Computer Science major at the University of Waterloo, `rebecca_xu` is a versatile and evolving open-source project embodying a passion for computer science, competitive badminton, and bartending!
+Created by a Computer Science major at the University of Waterloo, `rebecca_xu` is a versatile open-source project embodying a passion for computer science, competitive badminton, and bartending!
 
 ### Features
 - 🖥️ **Software Development**: Expertise in Python, SQL (Postgres, ClickHouse), Kubernetes (Openshift), cloud computing (AWS, GCP), and many more. Experienced in building automated solutions, data wrangling, and finding treasure in even the most convoluted error outputs.
