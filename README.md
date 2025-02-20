@@ -1,7 +1,7 @@
 ## Welcome to the ✨ `rebecca_xu` ✨ project!
 *version 3.0.0 - 3rd-Year `Computer Science Major` at the University of Waterloo*
 
-*version 3.1.0 - Currently Seeking Summer 2025 Internships!*
+*version 3.1.0 - Currently Seeking Summer 2026 Internships!*
 
 ### Overview
 Created by a Computer Science major at the University of Waterloo, `rebecca_xu` is a versatile and evolving open-source project embodying a passion for computer science, competitive badminton, and bartending!
@@ -15,7 +15,7 @@ Created by a Computer Science major at the University of Waterloo, `rebecca_xu` 
 Interested in utilizing `rebecca_xu`?
 Send an email with the following subject line to **r25xu@uwaterloo.ca** for fresh ideas, a dose of creativity, and an AWESOME intern:
 ```
-Summer 2025 Internship Interview/Call Invitation
+Summer 2026 Internship Interview/Call Invitation
 ```
 ### Want to interact with the ✨ `rebecca_xu` ✨ project?
 Email: **r25xu@uwaterloo.ca** or LinkedIn: **https://www.linkedin.com/in/r25xu/**
