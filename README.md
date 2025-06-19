@@ -1,7 +1,7 @@
 ## Welcome to the ✨ `rebecca_xu` ✨ project!
 *version 3.0.0 - 3rd-Year `Computer Science Major` at the University of Waterloo*
 
-*version 3.1.0 - Currently Seeking Summer 2026 Internships!*
+*version 3.1.0 - Currently Seeking Fall 2025, Winter 2026, or Summer 2026 Internships!*
 
 ### ✨ Overview
 Created by a Computer Science major at the University of Waterloo, `rebecca_xu` is a versatile open-source project embodying a passion for computer science, competitive badminton, and bartending!
