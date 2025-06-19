@@ -7,7 +7,7 @@
 Created by a Computer Science major at the University of Waterloo, `rebecca_xu` is a versatile open-source project embodying a passion for computer science, competitive badminton, and bartending!
 
 ### 🖥️ Features
-Expertise in Python, SQL (Postgres, ClickHouse), Kubernetes (Openshift), cloud computing (AWS, GCP), and many more. Experienced in building automated solutions, data wrangling, and finding treasure in even the most convoluted error outputs.
+A Python lover with expertise in ML infrastructure, data engineering, and many more. Experienced in building automated solutions, wrangling with data, and finding treasure in even the most convoluted error outputs.
 
 ### ⬇ Installation
 Send an email with the following subject line to **r25xu@uwaterloo.ca** for fresh ideas, a dose of creativity, and an AWESOME intern:
