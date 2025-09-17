@@ -10,10 +10,8 @@ Created by a Computer Science major at the University of Waterloo, `rebecca_xu` 
 A Python lover with expertise in ML infrastructure, data engineering, and many more. Experienced in building automated solutions, wrangling with data, and finding treasure in even the most convoluted error outputs.
 
 ### ⬇ Installation
-Send an email with the following subject line to **r25xu@uwaterloo.ca** for fresh ideas, a dose of creativity, and an AWESOME intern:
-```
-Internship Interview/Call Invitation
-```
+Send an email to **r25xu@uwaterloo.ca** for fresh ideas, a dose of creativity, and an AWESOME intern!
+
 ### Want to interact with the ✨ `rebecca_xu` ✨ project?
 Email: **r25xu@uwaterloo.ca** or LinkedIn: **https://www.linkedin.com/in/r25xu/**
 
