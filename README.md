@@ -15,6 +15,8 @@ Send an email to **r25xu@uwaterloo.ca** for fresh ideas, a dose of creativity, a
 ### Want to interact with the ✨ `rebecca_xu` ✨ project?
 Email: **r25xu@uwaterloo.ca** or LinkedIn: **https://www.linkedin.com/in/r25xu/**
 
+Check out my personal website~ https://rebeccaxu.dev/
+
 <!--
 **reebxu459/reebxu459** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
