@@ -4,7 +4,7 @@
 *version 3.1.0 - Currently Seeking 2027 New Grad roles!*
 
 ### ✨ Overview
-Created by a Computer Science major at the University of Waterloo, `rebecca_xu` is a versatile open-source project embodying a passion for computer science, competitive badminton, and bartending!
+Created by a Computer Science major at the University of Waterloo, `rebecca_xu` is a versatile open-source project embodying a passion for competitive badminton, 10-hour soups, and bartending!
 
 ### 🖥️ Features
 A Python lover with expertise in ML infrastructure, data engineering, and many more. Experienced in building automated solutions, wrangling with data, and finding treasure in even the most convoluted error outputs.
