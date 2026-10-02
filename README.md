@@ -7,7 +7,7 @@
 Created by a Computer Science major at the University of Waterloo, `rebecca_xu` is a versatile open-source project embodying a passion for competitive badminton, 10-hour soups, and bartending!
 
 ### 🖥️ Features
-A Python lover with expertise in ML infrastructure, data engineering, and many more. Experienced in building automated solutions, wrangling with data, and finding treasure in even the most convoluted error outputs.
+Expertise in ML infrastructure, data engineering, and many more. Experienced in building automated solutions, wrangling with data, and finding treasure in even the most convoluted error outputs.
 
 ### ⬇ Installation
 Send an email to **r25xu@uwaterloo.ca** for fresh ideas, a dose of creativity, and an AWESOME intern!
